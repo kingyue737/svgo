@@ -6,6 +6,8 @@
 
 **SVG O**ptimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 
+This fork remove dependency `stable` from original repo which results into package manager warning [svg/svgo#1681](https://github.com/svg/svgo/pull/1681).
+
 ## Why?
 
 SVG files, especially those exported from various editors, usually contain a lot of redundant and useless information. This can include editor metadata, comments, hidden elements, default or non-optimal values and other stuff that can be safely removed or converted without affecting the SVG rendering result.
