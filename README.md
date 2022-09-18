@@ -2,7 +2,7 @@
   <img src="./logo/logo-web.svg" width="348.61" height="100" alt="SVGO logo"/>
 </div>
 
-## SVGO [![npm version](https://img.shields.io/npm/v/svgo)](https://npmjs.org/package/svgo) [![Discord](https://img.shields.io/discord/815166721315831868)](https://discord.gg/z8jX8NYxrE)
+## SVGO [![npm version](https://img.shields.io/npm/v/@kingyue/svgo)](https://npmjs.org/package/@kingyue/svgo) [![Discord](https://img.shields.io/discord/815166721315831868)](https://discord.gg/z8jX8NYxrE)
 
 **SVG O**ptimizer is a Node.js-based tool for optimizing SVG vector graphics files.
 
